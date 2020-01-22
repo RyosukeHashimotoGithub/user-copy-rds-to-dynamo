@@ -1,0 +1,6 @@
+{
+    "copyUsersRdsToDynamo": {
+        "USER_TABLE": "<TABLE-NAME>",
+        "DYNAMO_USER_TABLE": "<TABLE-NAME>"
+    }
+}
